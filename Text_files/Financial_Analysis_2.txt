@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: 86
+Total Revenue: 36973911.0
+Average Revenue Change: -5955.31
+Greatest Increase in Revenue: Jun-14 ($1645140.0)
+Greatest Decrease in Revenue: May-14 ($-1947745.0)
